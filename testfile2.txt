@@ -1,0 +1,1 @@
+The largest value an integer can hold in C++ is 231-1, which just so happens to be 2147483647. Use double or float. If your compiler supports C++11, you can use the long long type, which is 64-bits. Use long long or unsigned long long if the numbers are within their range
